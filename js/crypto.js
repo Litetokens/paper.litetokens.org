@@ -1,5 +1,5 @@
-var add_pre_fix = '41';   //a0 + address  ,a0 is version
-var add_pre_fix_byte = 0x41;   //a0 + address  ,a0 is version
+var add_pre_fix = '31';   //a0 + address  ,a0 is version
+var add_pre_fix_byte = 0x31;   //a0 + address  ,a0 is version
 
 /**
  * Sign A Transaction by priKey.
