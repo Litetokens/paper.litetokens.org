@@ -1,5 +1,5 @@
 
-TRX (mainnet) - Tron paper wallet generator https://tronpaperwallet.org
+XLT (mainnet) - Litetokens paper wallet generator https://tronpaperwallet.org
 
 DEFINITION of 'Paper Wallet'
 
@@ -9,4 +9,4 @@ MAXIMUM 'Security'
 
 For maximum security we suggest to generate your paper wallet on an air gap computer. An air gap is a security measure to ensure that a computer is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network.
 
-Donations: TRX: TJ7VigG54zQCQMvk4FUJWnjF62Zo59Lj1x
+Donations: XLT: LYz7AsS2pi18hUGQXvywx2GVi5hRF1qVZD
