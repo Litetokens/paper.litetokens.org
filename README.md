@@ -1,5 +1,5 @@
 
-XLT (mainnet) - Litetokens paper wallet generator https://paper.litetokens.org
+## XLT (mainnet) - Litetokens paper wallet generator https://paper.litetokens.org
 
 DEFINITION of 'Paper Wallet'
 
